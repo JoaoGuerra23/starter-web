@@ -12,3 +12,7 @@ Hello
 Sample website with plenty of files for demos
 
 ## How to Contribute 
+
+### Copyright 
+
+2014 Git.Training 
